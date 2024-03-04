@@ -7,10 +7,10 @@ Topic 1, 본 페이지에서는 Python의 가장 기본적인 정보와 지식�
 하지만, 지금하지 않아도 Python을 계속 활용한다면 언젠가는 한번쯤 대면해야할 토픽인것은 확실하다.
 ***
 # Table of Contents
-1. [Planning for final project](#1.-Planning-for-Final-Project)
-2. [Python Installation](#2.-Python-Installation)
-3. [PIP](#3.-PIP-Installs-Packages)
-4. [Virtual Environment](#4.-Virtual-Environment)
+1. [Planning for final project](#1-planning-for-final-project)
+2. [Python Installation](#2-python-installation)
+3. [PIP](#3-pip-pip-installs-packages)
+4. [Virtual Environment](#4-virtual-environment)
 
 ***
 ## 1. Planning for Final Project
