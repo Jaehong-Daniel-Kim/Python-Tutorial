@@ -247,6 +247,8 @@ print(left_slices)
 # > 2 
 ```
 
+# 자료구조 (Data Structures)
+
 ## 자료 구조
 기본 String, Int, Float 자료형 외에도 Python에는 list, tuple, dictionary와 같은 자료구조가 존재한다.  
 List, Tuple, dictionary는 자료형 보다 조금 더 복잡한 자료구조로, 데이터를 다양한 방식으로 처리하기 위한 container 개념이다.  
@@ -313,6 +315,8 @@ person["name"] = "John"
 print(person["name"]) 
 # > "John"  # you can also modify the value
 ```
+# 조건문 (Conditional Statement)
+
 ## 조건문
 > Jump to Python  
 > If Statement: P.97 - P.108
@@ -482,6 +486,8 @@ else:
     print("I don't have either of your number")
 # > "I have Daniel's number
 ```
+
+# 반복문 (Loop) 
 
 ## Loop
 > Jump to Python  
