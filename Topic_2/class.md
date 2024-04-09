@@ -488,21 +488,21 @@ Representation의 약자로 객체의 문자열로 “표현” 한다.
 
     1. **Python 공식문서**
 
-    [3. 데이터 모델](https://docs.python.org/ko/3/reference/datamodel.html#emulating-generic-types)
+    https://docs.python.org/ko/3/reference/datamodel.html#emulating-generic-types
     
     - 내용이 방대하므로 좌측 패널의 목차에서 필요한 내용만 골라보자.
 
     
     2. **Python Special Methods에 대한 블로그 정리 글**
     
-    [[python] special method](https://velog.io/@khs0415p/python-special-method#__str__)
+    https://velog.io/@khs0415p/python-special-method#__str__
     
     - 주요 special methods에 대한 정리와 예제, 블로그 포스트
 
 
     3. `__str__` 과 `__repr__` 의 차이점에 대한 고찰, 블로그 정리 글
 
-    [[Python] __str__와 __repr__의 차이 살펴보기](https://shoark7.github.io/programming/python/difference-between-__repr__-vs-__str__)
+    https://shoark7.github.io/programming/python/difference-between-__repr__-vs-__str__
 
     - `__str__` 과 `__repr__` 두 special methods에 대한 공통점과 차이점에 대한 고찰, 블로그 포스트
 
