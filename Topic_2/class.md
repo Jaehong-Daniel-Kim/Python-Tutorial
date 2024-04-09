@@ -197,7 +197,7 @@ potter.age  # 17
 이는 Python의 `Namespace(네임 스페이스)` 와 연관이 있는데, 쉽게말하면 하나의 변수명은 하나의 네임스페이스에 독립적으로 할당된다는 의미이다. 
 
 <details>
-  <summary>More about Namespace</summary>
+  <summary>More about Namespace(Click Me)</summary>
     
     ```python
     id = 0
@@ -484,7 +484,7 @@ Representation의 약자로 객체의 문자열로 “표현” 한다.
 추가적인 내용을 공부해보고 싶은 분들을 위하여 아래 링크를 첨부한다. 
 
 <details>
-<summary>추가 공부</summary> 
+<summary>추가 공부 (Click Me)</summary> 
 
     1. **Python 공식문서**
 
