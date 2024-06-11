@@ -5,8 +5,8 @@
 ***참조:*** https://peps.python.org/pep-0008/#comments
 
 > “One of Guido’s key insights is that code is read much more often than it is written.”
-
-”Guido(Guido Van Rossum, Python 창시자)는 코드는 보통 쓰여지는것 보다 읽히는 경우가 더 많다고 지적한다.”
+> 
+> ”Guido(Guido Van Rossum, Python 창시자)는 코드는 보통 쓰여지는것 보다 읽히는 경우가 더 많다고 지적한다.”
 > 
 
 Python언어의 창시자인 Guido가 지적하는것과 같이 하나의 코드 베이스는 쓰여지는 시간보다 여러 개발자에 의하여 읽히는 경우가 더 많다. 
