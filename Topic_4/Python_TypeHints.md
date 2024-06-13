@@ -22,7 +22,7 @@ int main()
 }
 ```
 
-1. Java 언어로 작성된 “Hello World” 출력 프로그램
+2. Java 언어로 작성된 “Hello World” 출력 프로그램
 
 ```java
 // Java program to display "Hello World"
@@ -36,7 +36,7 @@ class HelloWorld {
 
 ```
 
-1. Python 언어로 작성된 “Hello World” 출력 프로그램
+3. Python 언어로 작성된 “Hello World” 출력 프로그램
 
 ```python
 # Python program to display "Hello World"
